@@ -1,66 +1,12 @@
-# 💝 Valentine's Day Website 2026 💝
 
-[![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
-[![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Support me](https://img.shields.io/badge/Support-Stripe-blue)](https://buy.stripe.com/bJefZa8Le7fvgDe3ric7u00)
-
-A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
-Follow below the tutorial how to custom the website and get your custom URL and access your website on the internet from everywhere !
-
-🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
-
-## 🌟 Share The Love
-
-If you liked it, please :
-- ⭐ Star this repository if you like it
-- 🔄 Fork it to create your own version
-- 🔥 Like and follow on instagram for more websites : [Instagram](https://www.instagram.com/reel/DFh3ZaxtrYX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-
-## ✨ Features
-- 💖 Floating hearts and bears
-- 🎵 Custom music
-- 📏 Love meter that goes beyond 100%
-- 🏃‍♂️ Playful buttons that run away
-- 🎁 Hidden answer for the first question, "Do you like me?"
-- 🎉 Grand celebration when they say yes!
-
-## 🚀 Quick Start Guide
-
-### 1. Get Your Own Copy
-1. Click the "Fork" button at the top right of this page or [click here](https://github.com/End2EndAI/valentine-website-2025/fork)
-2. Wait a few seconds while GitHub creates your copy
-3. You now have your own version of the code!
-
-Note: Make sure you're logged into your GitHub account. If you don't have one, you can [create a free account here](https://github.com/signup).
-
-### 2. Customize for Your Valentine
-
-#### Easy Way (Recommended)
-1. In your new repository, click on `config.js`
-2. Click the pencil icon (✏️) to edit
-3. Change the values to personalize your website
-4. Click "Commit changes" at the bottom
-
-Here's what you can customize in `config.js`:
-```javascript
-// Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
-
-// Floating Background Elements
-floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
-}
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "Do you love me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't love you, I adore you! ❤️"  // Hidden message
     },
     second: {
         text: "How much do you love me?",          // Second question
@@ -84,8 +30,8 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    message: "ILOVEYOUSMBABYYY MWAHHHH..",          // Celebration message
+    emojis: "💗💗💗💗💗💗"                        // Celebration emojis
 }
 
 // Website Colors
@@ -150,58 +96,4 @@ music: {
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
-}
-```
-
-### 4. Make It Live! (Get your online website URL)
-
-#### Using GitHub Pages (Free)
-1. Go to your repository's "Settings"
-2. Click "Pages" in the left sidebar
-3. Under "Source", select "main" branch
-4. Click "Save"
-5. Wait a few minutes
-6. Your site will be live at: `https://your-username.github.io/repository-name`
-
-#### Using Netlify (Free, Recommended, Custom URL)
-1. Go to [Netlify](https://www.netlify.com/)
-2. Sign up for a free account
-3. Click "Add new site" → "Import an existing project"
-4. Choose your GitHub repository
-5. Click "Deploy site"
-6. Once deployed, click "Domain settings"
-7. Choose a custom domain (e.g., `my-valentine-2025.netlify.app`)
-
-## 💡 Tips
-- Test the website before sending it to your Valentine
-- Try all the buttons and interactions
-- Check how it looks on mobile phones
-
-## 🎨 Want Different Colors?
-Use these tools to find beautiful colors:
-- [Coolors](https://coolors.co/) - Color palette generator
-- [ColorHunt](https://colorhunt.co/) - Color palettes
-
-## 🔍 Need More Emojis?
-Find more emojis at:
-- [EmojiKeyboard](https://emojikeyboard.top/fr/)
-- [Emojipedia](https://emojipedia.org/)
-
-## 💖 Credits
-Created with love for Valentine's Day 2026.
-Feel free to use and modify for your special someone!
-
-\- Louis Fontaine -
-
-## ❤️ Support this project
-
-This Valentine website template is completely **free and open-source**.
-
-If it helped you create something special, you can support the project with a small donation:
-
-👉 [Tip](https://buy.stripe.com/bJefZa8Le7fvgDe3ric7u00)
-
-Thank you for keeping it alive!
-
-## 📜 License
-MIT License - Feel free to use this for your Valentine! 
+}! 
